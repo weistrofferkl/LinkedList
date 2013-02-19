@@ -17,7 +17,7 @@ public class GraphicsPoint{
 			}
 
 		}
-		public void getX(int x){
+		public int getX(){
 			return this.x;
 		}
 		public void setY(int y){
@@ -25,7 +25,7 @@ public class GraphicsPoint{
 			this.y = y;
 			}
 		}
-		public void getY(int y){
+		public int getY(){
 			return this.y;
 		}
 
